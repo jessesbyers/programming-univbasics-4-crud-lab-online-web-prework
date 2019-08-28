@@ -6,7 +6,7 @@ def create_an_array
   cousins = ["Luke", "Ryan", "Jake", "Griffin"]
 end
 
-def add_element_to_end_of_array(cousins, "Alika")
+def add_element_to_end_of_array(cousins, Alika)
   cousins = ["Luke", "Ryan", "Jake", "Griffin"]
   cousins << "Alika"
 end

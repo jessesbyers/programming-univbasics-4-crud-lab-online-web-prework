@@ -6,8 +6,8 @@ def create_an_array
   cousins = ["Luke", "Ryan", "Jake", "Griffin"]
 end
 
-def add_element_to_end_of_array(cousins, "Alika")
-  
+def add_element_to_end_of_array(array, element)
+  cousins << "Alika"
 end
 
 def add_element_to_start_of_array(array, element)

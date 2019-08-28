@@ -1,12 +1,12 @@
 def create_an_empty_array
-  array = []
+  cousins = []
 end
 
 def create_an_array
-  array = ["Luke", "Ryan", "Jake", "Griffin"]
+  cousins = ["Luke", "Ryan", "Jake", "Griffin"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array(cousins, "Alika")
   
 end
 
